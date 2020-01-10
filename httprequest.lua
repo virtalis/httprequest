@@ -88,7 +88,6 @@ return {
   version = version,
   init = init,
   cleanup = cleanup,
-  depends = depends,
   encodeBasicAuth = encodeBasicAuth,
   get = get,
   post = post
